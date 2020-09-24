@@ -91,4 +91,4 @@ class LinkedList:
             # set `self.head` to the old head's `next_node`
             self.head = self.head.get_next()
             # return the old_head's value 
-            return val
+            return val 
